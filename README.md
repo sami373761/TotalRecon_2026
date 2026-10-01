@@ -1,5 +1,5 @@
 # Total Recon
-
+  
 Total Recon will install all the recon tools you need
 
 Tested on Ubuntu 24.04 LTS (Noble Numbat)
